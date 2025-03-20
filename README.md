@@ -1,6 +1,6 @@
 # flutter_notifications
 
-A fun flutter notifiaction implementation
+A fun flutter notification implementation
 
 ## Getting Started
 
